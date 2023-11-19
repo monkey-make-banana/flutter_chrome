@@ -3,7 +3,7 @@ description: A Flutter package to streamline Chrome extension development with i
 version: 0.0.1
 repository: https://github.com/monkey-make-banana/flutter_chrome
 homepage: https://monkey-make.com
-topics: [cli, web]
+topics: [cli, web, dart]
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
