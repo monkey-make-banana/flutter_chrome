@@ -1,4 +1,4 @@
-![Flutter Chrome](https://firebasestorage.googleapis.com/v0/b/monkey-make-pub.appspot.com/o/Flutter%20Chrome.png?alt=media&token=d5be4820-bf8c-46cb-b162-33e7f3e9e365) 
+![Flutter Chrome](https://firebasestorage.googleapis.com/v0/b/monkey-make-pub.appspot.com/o/Flutter%20Chrome.png?alt=media&token=acdf17f6-bf4a-4023-90a1-a8b116b36cce) 
 
 ![Pub Version](https://img.shields.io/pub/v/flutter_chrome) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/monkey-make-banana/flutter_chrome)
 

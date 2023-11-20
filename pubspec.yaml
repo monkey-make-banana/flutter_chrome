@@ -1,6 +1,6 @@
 name: flutter_chrome
 description: A Flutter package to streamline Chrome extension development with intuitive setup and build tools.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/monkey-make-banana/flutter_chrome
 homepage: https://monkey-make.com
 topics: [cli, web, dart]
